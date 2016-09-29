@@ -1,0 +1,6 @@
+framework module Pods_Pasar_Malam_Locator {
+  umbrella header "Pods-Pasar Malam Locator-umbrella.h"
+
+  export *
+  module * { export * }
+}
